@@ -1,8 +1,4 @@
-'''
-Created on Feb 25, 2011
 
-@author: Peter
-'''
 import numpy
 
 def map(key, value):

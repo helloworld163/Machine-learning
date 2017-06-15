@@ -1,8 +1,4 @@
-'''
-Created on Feb 28, 2011
 
-@author: Peter
-'''
 from mrjob.job import MRJob
 
 class MRmean(MRJob):
